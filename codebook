@@ -1,0 +1,15 @@
+following is variables used in the r_anlysis code.
+1) x_train represents x training data set
+2) y_train represent y training data set
+3) subject_test represents test data subject variables
+
+same variables replaced train with test used for testing data.
+
+other respective variables in self explanatory form used to combine data
+rbind is used to merge related x,y and subject data together
+
+package plyr is used for easy reading of the data in table format
+
+ddply is used to make the easy aggregate calculation (ex: averages)
+
+
